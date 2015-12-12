@@ -1,0 +1,28 @@
+name: Div7estimating.com
+favicon: null
+layout_spectrum: 0.6789321610704064
+typography_spectrum: 0.09370572213083506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4465918361674994
+  lightness: 0.36381856189109385
+  saturation: 0.12164201913401484
+  rhythmicContrast: 0.606381053570658
+purpose: []
